@@ -1,16 +1,11 @@
-# shw_test
+# 상태관리 비교용 Counter App
 
-A new Flutter project.
+각 상태관리별 장단점을 알기위해 간단하게 counter를 구현한 App
 
-## Getting Started
+## 사용한 상태관리
+bloc
+getX
+provider
+riverpod
+mobx
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
